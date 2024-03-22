@@ -19,8 +19,8 @@
 
 
 # Screenshot:
-![](IMG/Screenshot 2024-02-22 at 23.50.52.png)
-![](Img/Screenshot 2024-02-22 at 23.51.04.png)
+![](IMG/Screenshot 2024-02-22 at 23.51.04.png)
+![](IMG/Screenshot 2024-02-22 at 23.51.04.png)
 
 
 # Credits
